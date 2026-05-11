@@ -1,6 +1,5 @@
 .gitignore
-*.exe
-*.o
-*.dat
-*.bin
-.vscode/
+.exe
+.o
+.dat
+.bin
