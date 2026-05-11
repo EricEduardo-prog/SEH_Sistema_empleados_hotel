@@ -1,0 +1,458 @@
+# depslib dependency file v1.0
+1668256647 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+
+1668741777 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\empleados.h
+
+1668642820 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\inicio_sesion.h
+	"empleados.h"
+
+1669080657 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_archivo.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_nodo_hab.h"
+	"fns_nodo_piso.h"
+
+1669076629 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\sts_seh.h
+
+1668608864 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\constantes_seh.h
+
+1668650797 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_nodo_hab.h
+
+1669069374 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_nodo_piso.h
+
+1668632634 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_construye_hotel.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"fns_generales.h"
+	"constantes_seh.h"
+
+1668632634 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_generales.h
+
+1669079619 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_generales.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+
+1669076629 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_construye_hotel.h
+
+1669081562 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_gerente.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"sts_seh.h"
+	"fns_nodo_piso.h"
+	"fns_nodo_hab.h"
+	"fns_generales.h"
+	"menu_modifi.h"
+
+1669079612 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\menu_modifi.h
+
+1668645242 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_muestra.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+	"fns_nodo_hab.h"
+	"fns_nodo_piso.h"
+
+1668650817 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_nodo_hab.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+
+1668650797 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_nodo_piso.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+	"fns_nodo_hab.h"
+	"menu_modifi.h"
+	"fns_muestra.h"
+	"fns_archivo.h"
+
+1668632634 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_muestra.h
+
+1668632634 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_archivo.h
+
+1668644369 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\funcionesmenu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+
+1668642799 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\inicio_sesion.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inicio_sesion.h"
+
+1669079933 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"sts_seh.h"
+	"fns_muestra.h"
+	"fns_nodo_piso.h"
+	"fns_archivo.h"
+	"menu_modifi.h"
+	"fns_gerente.h"
+
+1668252097 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\funcionesmenu.h
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+
+1669079612 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\fns_gerente.h
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+
+1669079611 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\menu_modifi.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+	"fns_nodo_hab.h"
+	"fns_muestra.h"
+
+1669080850 source:f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/constantes_seh.h"
+	"lib/sts_seh.h"
+	"lib/empleados.h"
+	"lib/fns_archivo.h"
+	"lib/fns_construye_hotel.h"
+	"lib/fns_generales.h"
+	"lib/fns_gerente.h"
+	"lib/fns_muestra.h"
+	"lib/fns_nodo_hab.h"
+	"lib/fns_nodo_piso.h"
+	"lib/funcionesmenu.h"
+	"lib/inicio_sesion.h"
+	"lib/menu.h"
+	"lib/menu_modifi.h"
+
+1669079666 f:\data\tk\utn\2do cuatrimestre (com 10)\laboratorio 2\s.e.h\versiones de s.e.h\2.0.2\lib\menu.h
+
+1669265761 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"fns_muestra.h"
+
+1669265953 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\empleados.h
+
+1668642822 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\inicio_sesion.h
+	"empleados.h"
+
+1669262057 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_archivo.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_nodo_hab.h"
+	"fns_nodo_piso.h"
+
+1669266868 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\sts_seh.h
+
+1669268359 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\constantes_seh.h
+
+1669248176 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_nodo_hab.h
+
+1669265333 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_nodo_piso.h
+
+1669262057 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_construye_hotel.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"fns_generales.h"
+	"constantes_seh.h"
+
+1669262399 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_generales.h
+
+1669263188 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_generales.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_gerente.h"
+
+1669262127 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_construye_hotel.h
+
+1669268359 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_gerente.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"constantes_seh.h"
+	"sts_seh.h"
+	"fns_nodo_piso.h"
+	"fns_nodo_hab.h"
+	"fns_generales.h"
+	"fns_muestra.h"
+	"menu.h"
+
+1669262291 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\menu_modifi.h
+
+1669268359 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_muestra.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+	"fns_nodo_hab.h"
+	"fns_nodo_piso.h"
+	"empleados.h"
+	"string.h"
+	"fns_muestra.h"
+
+1669267790 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_nodo_hab.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_gerente.h"
+	"fns_generales.h"
+
+1669268359 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_nodo_piso.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+	"fns_nodo_hab.h"
+	"menu_modifi.h"
+	"fns_muestra.h"
+	"fns_archivo.h"
+	"fns_nodo_piso.h"
+
+1669266277 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_muestra.h
+	"sts_seh.h"
+
+1669262130 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_archivo.h
+
+1669266336 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\inicio_sesion.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inicio_sesion.h"
+	"fns_muestra.h"
+
+1669268011 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"sts_seh.h"
+	"fns_muestra.h"
+	"fns_nodo_piso.h"
+	"fns_nodo_hab.h"
+	"fns_archivo.h"
+	"menu_modifi.h"
+	"fns_gerente.h"
+
+1669267789 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_gerente.h
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+
+1669079612 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\menu_modifi.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+	"fns_nodo_hab.h"
+	"fns_muestra.h"
+
+1669268315 source:d:\other computers\mi pc\programacion\tp final 2022\2.0.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/sts_seh.h"
+	"lib/empleados.h"
+	"lib/fns_generales.h"
+	"lib/fns_gerente.h"
+	"lib/fns_muestra.h"
+	"lib/fns_nodo_hab.h"
+	"lib/fns_nodo_piso.h"
+	"lib/inicio_sesion.h"
+	"lib/menu.h"
+
+1668252098 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\funcionesmenu.h
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+
+1669263536 d:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\menu.h
+
+1669280526 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"fns_muestra.h"
+
+1669265953 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\empleados.h
+
+1668642822 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\inicio_sesion.h
+	"empleados.h"
+
+1669326141 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_muestra.h
+	"fns_generales.h"
+	"fns_nodo_piso.h"
+
+1669269319 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\sts_seh.h
+
+1669263188 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_generales.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_gerente.h"
+
+1669269400 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\constantes_seh.h
+
+1669336454 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_gerente.h
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"fns_nodo_piso.h"
+	"fns_nodo_hab.h"
+
+1669336443 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_gerente.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"constantes_seh.h"
+	"sts_seh.h"
+	"fns_nodo_piso.h"
+	"fns_nodo_hab.h"
+	"fns_generales.h"
+	"fns_muestra.h"
+	"menu.h"
+
+1669323854 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_nodo_piso.h
+	"fns_nodo_hab.h"
+
+1669323730 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_nodo_hab.h
+	"fns_generales.h"
+
+1669269833 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_generales.h
+	"fns_nodo_hab.h"
+
+1669336454 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\menu.h
+	"fns_nodo_hab.h"
+	"fns_nodo_piso.h"
+	"inicio_sesion.h"
+
+1669334833 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_muestra.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+	"fns_nodo_hab.h"
+	"fns_nodo_piso.h"
+	"empleados.h"
+	"string.h"
+	"fns_muestra.h"
+
+1669262127 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_construye_hotel.h
+
+1669323838 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_nodo_hab.c
+	<stdio.h>
+	<stdlib.h>
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_gerente.h"
+	"fns_muestra.h"
+
+1669281268 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_nodo_piso.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+	"sts_seh.h"
+	"constantes_seh.h"
+	"fns_construye_hotel.h"
+	"fns_generales.h"
+	"fns_nodo_hab.h"
+	"menu_modifi.h"
+	"fns_muestra.h"
+	"fns_archivo.h"
+	"fns_nodo_piso.h"
+
+1669262291 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\menu_modifi.h
+
+1669262130 g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\fns_archivo.h
+
+1669316490 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\inicio_sesion.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inicio_sesion.h"
+	"fns_muestra.h"
+
+1669336815 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\lib\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"string.h"
+	"empleados.h"
+	"inicio_sesion.h"
+	"sts_seh.h"
+	"fns_muestra.h"
+	"fns_nodo_piso.h"
+	"fns_nodo_hab.h"
+	"fns_archivo.h"
+	"menu_modifi.h"
+	"fns_gerente.h"
+	"constantes_seh.h"
+
+1669329535 source:g:\other computers\mi pc\programacion\tp final 2022\2.0.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/empleados.h"
+	"lib/fns_gerente.h"
+	"lib/fns_muestra.h"
+	"lib/fns_nodo_hab.h"
+	"lib/fns_nodo_piso.h"
+	"lib/inicio_sesion.h"
+	"lib/menu.h"
+
